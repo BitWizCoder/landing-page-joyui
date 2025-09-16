@@ -1,5 +1,7 @@
+import ExampleNavigationMenu from "./components/Nav";
+
 function App() {
-  return <h1 className="">Hello World!</h1>;
+  return <ExampleNavigationMenu />;
 }
 
 export default App;
